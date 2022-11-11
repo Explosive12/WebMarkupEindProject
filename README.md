@@ -14,3 +14,6 @@
 :man_in_manual_wheelchair: :woman_in_manual_wheelchair:
 
 :sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed::sleeping_bed:
+
+
+People hugging: :people_hugging:
