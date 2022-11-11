@@ -10,5 +10,5 @@
 
 
 
-:woman_in_motorized_wheelchair: :person_in_manual_wheelchair:	
+:woman_in_motorized_wheelchair: :man_in_motorized_wheelchair:
 :man_in_manual_wheelchair: :woman_in_manual_wheelchair:
