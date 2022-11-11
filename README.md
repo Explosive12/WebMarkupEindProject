@@ -3,6 +3,6 @@
 >
 > ~~Everyone will believe~~
 
-- [x]
-- [ ]
+- [x] \
+- [ ] \
 - [ ] \
