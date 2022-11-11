@@ -3,6 +3,6 @@
 >
 > ~~Everyone will believe~~
 
-- [x] \
-- [ ] \
-- [ ] \
+- [x] :stuck_out_tongue_closed_eyes:
+- [ ] :stuck_out_tongue_closed_eyes:
+- [ ] :stuck_out_tongue_closed_eyes:
