@@ -7,3 +7,8 @@
 - [x] :stuck_out_tongue_closed_eyes:
 - [ ] :stuck_out_tongue_closed_eyes:
 - [ ] :stuck_out_tongue_closed_eyes:
+
+
+
+:woman_in_motorized_wheelchair: :person_in_manual_wheelchair:	
+:man_in_manual_wheelchair: :woman_in_manual_wheelchair:
